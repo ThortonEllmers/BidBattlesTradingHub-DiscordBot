@@ -7,6 +7,7 @@
     "discord.js": "^13.8.0",
     "fstorm": "latest",
     "jimp": "^0.16.0",
+    "loadavg-windows": "^1.1.1",
     "node-cron": "^3.0.1"
   }
 }
